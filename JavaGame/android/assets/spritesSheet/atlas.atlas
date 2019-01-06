@@ -1,0 +1,292 @@
+atlas.png
+size: 448, 1711
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+num
+  rotate: false
+  xy: 27, 71
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 0
+num
+  rotate: false
+  xy: 79, 71
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: 1
+num
+  rotate: false
+  xy: 53, 71
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 2
+num
+  rotate: false
+  xy: 373, 33
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 3
+num
+  rotate: false
+  xy: 347, 33
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 4
+num
+  rotate: false
+  xy: 399, 33
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 5
+num
+  rotate: false
+  xy: 321, 33
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 6
+num
+  rotate: false
+  xy: 1, 71
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 7
+num
+  rotate: false
+  xy: 269, 33
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 8
+num
+  rotate: false
+  xy: 295, 33
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 9
+background-day
+  rotate: false
+  xy: 1, 684
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+background-night
+  rotate: false
+  xy: 1, 1198
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 1, 248
+  size: 336, 112
+  orig: 336, 112
+  offset: 0, 0
+  index: -1
+bird_0
+  rotate: false
+  xy: 73, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 0
+bird_0
+  rotate: false
+  xy: 181, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 1
+bird_0
+  rotate: false
+  xy: 145, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 2
+bird_1
+  rotate: false
+  xy: 289, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 0
+bird_1
+  rotate: false
+  xy: 217, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 1
+bird_1
+  rotate: false
+  xy: 109, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 2
+bird_2
+  rotate: false
+  xy: 37, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 0
+bird_2
+  rotate: false
+  xy: 1, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 1
+bird_2
+  rotate: false
+  xy: 253, 1
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 2
+black
+  rotate: false
+  xy: 199, 33
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+gameOver
+  rotate: false
+  xy: 1, 123
+  size: 194, 51
+  orig: 194, 51
+  offset: 0, 0
+  index: -1
+getReady
+  rotate: false
+  xy: 197, 123
+  size: 186, 54
+  orig: 186, 54
+  offset: 0, 0
+  index: -1
+gCoin
+  rotate: false
+  xy: 97, 71
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 115, 33
+  size: 82, 30
+  orig: 82, 32
+  offset: 0, 2
+  index: -1
+menuIcon
+  rotate: false
+  xy: 325, 1
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 31, 33
+  size: 82, 30
+  orig: 82, 32
+  offset: 0, 2
+  index: -1
+pipe-green
+  rotate: false
+  xy: 284, 362
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+pipe-red
+  rotate: false
+  xy: 230, 362
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1, 33
+  size: 28, 30
+  orig: 28, 32
+  offset: 0, 2
+  index: -1
+playButton
+  rotate: false
+  xy: 229, 179
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+position
+  rotate: false
+  xy: 118, 179
+  size: 109, 66
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+progress
+  rotate: false
+  xy: 1, 362
+  size: 227, 125
+  orig: 227, 125
+  offset: 0, 0
+  index: -1
+rate
+  rotate: false
+  xy: 193, 71
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+share
+  rotate: false
+  xy: 355, 1
+  size: 82, 30
+  orig: 82, 32
+  offset: 0, 2
+  index: -1
+sCoin
+  rotate: false
+  xy: 145, 71
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+touchToStart
+  rotate: false
+  xy: 1, 179
+  size: 115, 61
+  orig: 115, 62
+  offset: 0, 1
+  index: -1
+title
+  rotate: false
+  xy: 267, 71
+  size: 180, 50
+  orig: 181, 52
+  offset: 0, 2
+  index: -1
+white
+  rotate: false
+  xy: 234, 33
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
